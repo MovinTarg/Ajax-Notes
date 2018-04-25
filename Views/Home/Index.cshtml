@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Notes</h1>
+@foreach(var note in @ViewBag.notes)
+{
+    <div class="note">
+        <form action="/update/@note["id"]" method="POST">
+            <h3>@note["title"]</h3>
+            <a href="/delete/@note["id"]">delete</a>
+            <div class="form-group">
+                <textarea class="form-control" rows="5" name="description">@note["description"]</textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Update</button>
+        </form>
+    </div>
+}
+@if(ViewBag.Error != null)
+{
+    <p>@ViewBag.Error</p>
+}
+<form action="/create" method="POST">
+    <div class="form-group">
+        <input type="text" class="form-control" name="title" placeholder="Insert note title here">
+    </div>
+    <button type="submit" class="btn btn-primary">Add Note</button>
+</form>

@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\bin\Debug\netcoreapp2.0\ajax notes.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\bin\Debug\netcoreapp2.0\ajax notes.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\bin\Debug\netcoreapp2.0\ajax notes.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\bin\Debug\netcoreapp2.0\ajax notes.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\bin\Debug\netcoreapp2.0\ajax notes.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\obj\Debug\netcoreapp2.0\ajax notes.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\obj\Debug\netcoreapp2.0\ajax notes.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\obj\Debug\netcoreapp2.0\ajax notes.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\obj\Debug\netcoreapp2.0\ajax notes.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\ajax notes\obj\Debug\netcoreapp2.0\ajax notes.pdb
